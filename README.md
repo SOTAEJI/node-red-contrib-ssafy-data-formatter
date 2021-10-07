@@ -24,7 +24,7 @@ These nodes require Node.js version 14.17.0 and Node-RED 2.0.6.
 
 ## Pre-requisites
 
-The Motion-Pose-Node requires [Node-RED](https://nodered.org/) to be installed.
+This module requires [Node-RED](https://nodered.org/) to be installed.
 
 
 
