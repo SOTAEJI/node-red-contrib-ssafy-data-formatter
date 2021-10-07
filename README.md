@@ -44,7 +44,7 @@ npm i node-red-contrib-ssafy-sotaeji
 
 
 
-## Copyright and license
+## Copyright and License
 
 Copyright Samsung Automation Studio Team under [the Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
 
