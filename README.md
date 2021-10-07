@@ -1,14 +1,14 @@
 # node-red-contrib-ssafy-sotaeji
 
-This module provides two sets of nodes of node-RED that have improved convenience in users' cloud interworking and Chart.js creation.
+This module provides two sets of nodes of node-RED that have convenience in interworking with users' cloud storage and using Chart.js library.
 
-This module helps users  process data using various statistical functions and create charts regardless of the data source.
+This module helps users process data using various statistical functions and create charts regardless of the data source and format.
 
-Users who are not familiar with Chart.js can also be customized easily, but only for some options.
+Users who are not familiar with Chart.js can also customize charts easily for some options.
 
 In addition to open APIs and local directories, data sources in the cloud are available.
 
-We wrote the code in the form of a GUI so that any user of Node-RED can easily create a chart.
+This module supports GUI environments so that any user of Node-RED can easily create a chart.
 
 These nodes require Node.js version 14.17.0 and Node-RED 2.0.6.
 
