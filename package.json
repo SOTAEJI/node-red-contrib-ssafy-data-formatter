@@ -12,7 +12,8 @@
   },
   "node-red": {
     "nodes": {
-      "FileCloud": "./FileCloud/FileCloud.js"
+      "FileCloud": "./FileCloud/FileCloud.js",
+      "data-formatter": "./DataFormatter/DataFormatter.js"
     }
   },
   "keywords": [
