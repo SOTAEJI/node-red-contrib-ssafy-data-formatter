@@ -1,4 +1,4 @@
-# node-red-contrib-ssafy-sotaeji
+# node-red-contrib-ssafy-data-formatter
 
 This module provides two sets of nodes of node-RED that have convenience in interworking with users' cloud storage and using Chart.js library.
 
@@ -30,7 +30,7 @@ The Motion-Pose-Node requires [Node-RED](https://nodered.org/) to be installed.
 
 ## Install
 
-To install the stable version use the `Menu - Manage palette` option and search for `node-red-contrib-ssafy-sotaeji`, or run the following command in your Node-RED user directory - typically `~/.node-red`:
+To install the stable version use the `Menu - Manage palette` option and search for `node-red-contrib-ssafy-data-formatter`, or run the following command in your Node-RED user directory - typically `~/.node-red`:
 
 ```bash
 npm i node-red-contrib-ssafy-sotaeji
