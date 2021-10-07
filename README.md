@@ -16,7 +16,7 @@ These nodes require Node.js version 14.17.0 and Node-RED 2.0.6.
 
 ## Node
 
-- ata-formatter: A node that converts various data sources into json data for using Html-out Node(Chart.js) of Samsung Automation Studio.
+- Data-formatter: A node that converts various data sources into json data for using Html-out Node(Chart.js) of Samsung Automation Studio.
 - Chart Config: A node capable of setting various options of Html-out Node(Chart.js) of Samsung Automation Studio.
 - FileCloud: A node with file read, upload, and download functions by linking the cloud.
 
